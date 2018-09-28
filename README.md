@@ -10,3 +10,10 @@ The first step to write a more complicated parser.
 因为简单。作为一个应用极其广泛的数据传送格式，json有着十分简单友好规范的语法，只需要支持基本类型、列表和对象三类格式。感觉实在是没什么难度。
 
 
+
+## 参考资源
+
+* [从零开始的JSON库教程]
+* [写一个 JSON、XML 或 YAML 的 Parser 的思路是什么？]
+
+
